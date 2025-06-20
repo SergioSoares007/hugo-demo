@@ -5,7 +5,7 @@ theme: "PaperMod"
 
 params:
   homeInfoParams:
-    Title: 'Hello Stranger'
+    Title: 'To Laura'
     Content: 'Welcome to my blog. Here youll find a lot of coool information about a lot of cool stuff'
   socialIcons:
     - name: facebook
